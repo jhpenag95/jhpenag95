@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Helver Johan Peña Gordillo</h1>
+<h1 align="center">Hola 👋, mi nombre es Helver Johan Peña Gordillo</h1>
 <h3 align="center">Apasionado desarrollador frontend y realizar pruebas de calidad y aseguramiento de la calidad (QA).</h3>
 
 - 🔭 Colvatel SA **Cabledores**
