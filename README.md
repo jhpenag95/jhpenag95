@@ -3,7 +3,7 @@
 
 - 🔭 Colvatel SA, logros en proyectos: **Cabledores, RHpuntos**
 
-- 🌱actualmente estoy aprendiendo: **React y Python**
+- 🌱Actualmente estoy aprendiendo: **React y Python**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://portafolio01.netlify.app/](https://portafolio01.netlify.app/)
 
@@ -11,7 +11,7 @@
 
 - 💬 Preguntame sobre **HTML,CSS, JAVASCRIPT, PHP, MYSQL,GITHUB, BOOTSTRAP, JIRA, SELENIUM, STELA**
 
-- 📫 como llegar a mi **helver248@hotmail.es**
+- 📫 Como llegar a mi **helver248@hotmail.es**
 
 - 📄 Conoce mis experiencias:
 Soy un apasionado profesional de tecnología de la información con una sólida trayectoria como técnico en sistemas, implementador de software contable y analista de base de datos. Mi experiencia abarca desde el mantenimiento y configuración de sistemas informáticos hasta la implementación y pruebas de software contable, así como el diseño y mantenimiento de bases de datos.
