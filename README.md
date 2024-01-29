@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, mi nombre es Helver Johan Peña Gordillo</h1>
 <h3 align="center">Apasionado desarrollador y aseguramiento de la calidad de software(QA).</h3>
 
-- 🔭 Colvatel SA **Cabledores, RHpuntos**
+- 🔭 Colvatel SA, logros en proyectos: **Cabledores, RHpuntos**
 
-- 🌱actualmente estoy aprendiendo **React y Python**
+- 🌱actualmente estoy aprendiendo: **React y Python**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://portafolio01.netlify.app/](https://portafolio01.netlify.app/)
 
