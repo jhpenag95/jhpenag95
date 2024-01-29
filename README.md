@@ -13,11 +13,12 @@
 
 - 📫 como llegar a mi **helver248@hotmail.es**
 
-- 📄 Conoce mis experiencias [Soy un apasionado profesional de tecnología de la información con una sólida trayectoria como técnico en sistemas, implementador de software contable y analista de base de datos. Mi experiencia abarca desde el mantenimiento y configuración de sistemas informáticos hasta la implementación y pruebas de software contable, así como el diseño y mantenimiento de bases de datos.
+- 📄 Conoce mis experiencias:
+Soy un apasionado profesional de tecnología de la información con una sólida trayectoria como técnico en sistemas, implementador de software contable y analista de base de datos. Mi experiencia abarca desde el mantenimiento y configuración de sistemas informáticos hasta la implementación y pruebas de software contable, así como el diseño y mantenimiento de bases de datos.
 
 Mis habilidades destacadas incluyen un profundo conocimiento en soporte técnico, resolución de problemas y el desarrollo de proyectos utilizando tecnologías como HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, GitHub y Selenium. He liderado la creación de planes y casos de pruebas para asegurar la calidad del software, aportando así a la mejora continua de los productos y servicios.
 
-Con una sólida base técnica y un enfoque proactivo, estoy preparado para contribuir al éxito de proyectos desafiantes, aportando soluciones innovadoras y garantizando la excelencia en cada etapa del desarrollo de software.]
+Con una sólida base técnica y un enfoque proactivo, estoy preparado para contribuir al éxito de proyectos desafiantes, aportando soluciones innovadoras y garantizando la excelencia en cada etapa del desarrollo de software.
 
 - ⚡ Hecho de la diversión **Soy una persona divertida, Amable y respetuosa. Me gusta el fútbol y viajar.**
 
