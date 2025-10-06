@@ -3,7 +3,7 @@
 
 - 🔭 Colvatel SA, logros en proyectos: **Cabledores, RHpuntos**
 
-- 🌱Actualmente estoy aprendiendo: **React y Python**
+- 🌱Actualmente estoy aprendiendo: **Vue.js y Python**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://portafolio01.netlify.app/](https://portafolio01.netlify.app/)
 
