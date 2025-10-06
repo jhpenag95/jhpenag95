@@ -9,7 +9,7 @@
 
 - 📝 Regularmente escribo artículos sobre [https://portafolio01.netlify.app/](https://portafolio01.netlify.app/)
 
-- 💬 Preguntame sobre **HTML,CSS, JAVASCRIPT, PHP, MYSQL,GITHUB, BOOTSTRAP, JIRA, SELENIUM, STELA**
+- 💬 Preguntame sobre **HTML,CSS, JAVASCRIPT, PHP, LARAVEL, MYSQL, GITHUB, BOOTSTRAP, JIRA, SELENIUM, STELA**
 
 - 📫 Como llegar a mi **helver248@hotmail.es**
 
