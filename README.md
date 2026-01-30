@@ -1,24 +1,21 @@
 <h1 align="center">Hola 👋, mi nombre es Helver Johan Peña Gordillo</h1>
 <h3 align="center">Apasionado desarrollador y aseguramiento de la calidad de software(QA).</h3>
 
-- 🔭 Colvatel SA, logros en proyectos: **Cabledores, RHpuntos**
+- 🔭 Colvatel SA, logros en proyectos:
+- Aprendizaje en el consumo de API para integrar servicios externos.
+- Desarrollar nuevas soluciones a la aplicación aportaron valor al producto final y a la 
+experiencia de usuario.
+- Fortalecimiento de habilidades en trabajo en equipo dentro de un entorno ágil, siguiendo 
+prácticas de Scrum.
 
-- 🌱Actualmente estoy aprendiendo: **Vue.js y Python**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://portafolio01.netlify.app/](https://portafolio01.netlify.app/)
-
-- 📝 Regularmente escribo artículos sobre [https://portafolio01.netlify.app/](https://portafolio01.netlify.app/)
+- 🌱Actualmente estoy aprendiendo: **React y Laravel**
 
 - 💬 Preguntame sobre **HTML,CSS, JAVASCRIPT, PHP, LARAVEL, MYSQL, GITHUB, BOOTSTRAP, JIRA, SELENIUM, STELA**
 
 - 📫 Como llegar a mi **helver248@hotmail.es**
 
 - 📄 Conoce mis experiencias:
-Soy un apasionado profesional de tecnología de la información con una sólida trayectoria como técnico en sistemas, implementador de software contable y analista de base de datos. Mi experiencia abarca desde el mantenimiento y configuración de sistemas informáticos hasta la implementación y pruebas de software contable, así como el diseño y mantenimiento de bases de datos.
-
-Mis habilidades destacadas incluyen un profundo conocimiento en soporte técnico, resolución de problemas y el desarrollo de proyectos utilizando tecnologías como HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, GitHub y Selenium. He liderado la creación de planes y casos de pruebas para asegurar la calidad del software, aportando así a la mejora continua de los productos y servicios.
-
-Con una sólida base técnica y un enfoque proactivo, estoy preparado para contribuir al éxito de proyectos desafiantes, aportando soluciones innovadoras y garantizando la excelencia en cada etapa del desarrollo de software.
+Estudiante de Ingeniería de Software con experiencia en desarrollo web y soporte de aplicaciones. Conocimientos en HTML, CSS, JavaScript, PHP, MySQL y Laravel, así como en pruebas de software y mantenimiento de sistemas. Destaco por mi compromiso con el aprendizaje constante, la colaboración en equipo y la comunicación efectiva para alcanzar objetivos en proyectos tecnológicos.
 
 - ⚡ Hecho de la diversión **Soy una persona divertida, Amable y respetuosa. Me gusta el fútbol y viajar.**
 
