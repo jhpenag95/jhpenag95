@@ -1,11 +1,14 @@
 <h1 align="center">Hola 👋, mi nombre es Helver Johan Peña Gordillo</h1>
 <h3 align="center">Apasionado desarrollador y aseguramiento de la calidad de software(QA).</h3>
 
-- 🔭 Colvatel SA, logros en proyectos:
-- Aprendizaje en el consumo de API para integrar servicios externos.
-- Desarrollar nuevas soluciones a la aplicación aportaron valor al producto final y a la 
+- Logros:
+
+Aprendizaje en el consumo de API para integrar servicios externos.
+  
+Desarrollar nuevas soluciones a la aplicación aportaron valor al producto final y a la 
 experiencia de usuario.
-- Fortalecimiento de habilidades en trabajo en equipo dentro de un entorno ágil, siguiendo 
+
+Fortalecimiento de habilidades en trabajo en equipo dentro de un entorno ágil, siguiendo 
 prácticas de Scrum.
 
 - 🌱Actualmente estoy aprendiendo: **REACT y LARAVEL**
