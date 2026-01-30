@@ -12,7 +12,7 @@ prácticas de Scrum.
 
 - 💬 Preguntame sobre **HTML,CSS, JAVASCRIPT,AJAX,TYPESCRIPT, PHP, MYSQL,POSTGRESQL, GITHUB, BOOTSTRAP, JIRA, SELENIUM, STELA**
 
-- 📫 Como llegar a mi **helver248@hotmail.es**
+- 📫 Como llegar a mi **helver248@hotmail.es** O **573058162244**
 
 - 📄 Conoce mis experiencias:
 Estudiante de Ingeniería de Software con experiencia en desarrollo web y soporte de aplicaciones. Conocimientos en HTML, CSS, JavaScript, PHP, MySQL y Laravel, así como en pruebas de software y mantenimiento de sistemas. Destaco por mi compromiso con el aprendizaje constante, la colaboración en equipo y la comunicación efectiva para alcanzar objetivos en proyectos tecnológicos.
