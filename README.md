@@ -10,7 +10,7 @@ prácticas de Scrum.
 
 - 🌱Actualmente estoy aprendiendo: **REACT y LARAVEL**
 
-- 💬 Preguntame sobre **HTML,CSS, JAVASCRIPT, PHP, LARAVEL, MYSQL, GITHUB, BOOTSTRAP, JIRA, SELENIUM, STELA**
+- 💬 Preguntame sobre **HTML,CSS, JAVASCRIPT,AJAX,TYPESCRIPT, PHP, MYSQL,POSTGRESQL, GITHUB, BOOTSTRAP, JIRA, SELENIUM, STELA**
 
 - 📫 Como llegar a mi **helver248@hotmail.es**
 
