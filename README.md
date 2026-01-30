@@ -8,7 +8,7 @@ experiencia de usuario.
 - Fortalecimiento de habilidades en trabajo en equipo dentro de un entorno ágil, siguiendo 
 prácticas de Scrum.
 
-- 🌱Actualmente estoy aprendiendo: **React y Laravel**
+- 🌱Actualmente estoy aprendiendo: **REACT y LARAVEL**
 
 - 💬 Preguntame sobre **HTML,CSS, JAVASCRIPT, PHP, LARAVEL, MYSQL, GITHUB, BOOTSTRAP, JIRA, SELENIUM, STELA**
 
